@@ -1,7 +1,7 @@
 This is first time I am using git from my Vscode.
 
 Step-1: Open the folder in explorer
-step-2: create a repo in the folder( git init)
+step-2: create a empty repo in the folder( git init)
 Step-3: import the remote repo in the github to Vs code(git remote add origin https://github.com/dhanyamaddi-per/Data.git)
 Step-4: Setup the config in git(git config --global user.name "Dhanya Maddi";git config --global user.email "dhanyamaddi@gmail.com")
 Step-5: Setup the SSH key in git and github
