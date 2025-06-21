@@ -1,4 +1,6 @@
 
+Verifying the repos of Github:
+ git remote -v
 
 Common git commands
 • Setting Up and Configuration:
